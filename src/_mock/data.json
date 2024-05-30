@@ -1,0 +1,553 @@
+[
+  {
+    "albumName": "Dangerous",
+    "tracks": [
+      {
+        "songName": "JAM",
+        "songUrl": "/data/01_dangerous/01. JAM.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "Why You Wanna Trip On Me",
+        "songUrl": "/data/01_dangerous/02. Why You Wanna Trip On Me.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "In The Closet",
+        "songUrl": "/data/01_dangerous/03. In The Closet.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "She Drives Me Wild",
+        "songUrl": "/data/01_dangerous/04. She Drives Me Wild.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "Remember The Time",
+        "songUrl": "/data/01_dangerous/05. Remember The Time.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "Can't Let Her Get Away",
+        "songUrl": "/data/01_dangerous/06. Can't Let Her Get Away.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "Heal The World",
+        "songUrl": "/data/01_dangerous/07. Heal The World.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "Black Or White",
+        "songUrl": "/data/01_dangerous/08. Black Or White.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "Who Is It",
+        "songUrl": "/data/01_dangerous/09. Who Is It.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "Give In To Me",
+        "songUrl": "/data/01_dangerous/10. Give In To Me.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "Will You Be There",
+        "songUrl": "/data/01_dangerous/11. Will You Be There.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "Keep The Faith",
+        "songUrl": "/data/01_dangerous/12. Keep The Faith.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "Gone Too Soon",
+        "songUrl": "/data/01_dangerous/13. Gone Too Soon.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "Dangerous",
+        "songUrl": "/data/01_dangerous/14. Dangerous.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      }
+    ]
+  },
+  {
+    "albumName": "Bad",
+    "tracks": [
+      {
+        "songName": "Bad",
+        "songUrl": "/data/02_bad/01. Bad.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "Another Part Of Me",
+        "songUrl": "/data/02_bad/02. Another Part Of Me.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "Dirty Diana",
+        "songUrl": "/data/02_bad/03. Dirty Diana.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "I Just Cant Stop Loving You",
+        "songUrl": "/data/02_bad/04. I Just Cant Stop Loving You.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "Just Good Friends",
+        "songUrl": "/data/02_bad/05. Just Good Friends.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "Leave Me Alone",
+        "songUrl": "/data/02_bad/06. Leave Me Alone.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "Leberian Girl",
+        "songUrl": "/data/02_bad/07. Leberian Girl.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "Man In The Mirror",
+        "songUrl": "/data/02_bad/08. Man In The Mirror.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "Smooth Criminal",
+        "songUrl": "/data/02_bad/09. Smooth Criminal.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "Speed Demon",
+        "songUrl": "/data/02_bad/10. Speed Demon.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "The Way You Make Me Feel",
+        "songUrl": "/data/02_bad/11. The Way You Make Me Feel.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      }
+    ]
+  },
+  {
+    "albumName": "Thriller",
+    "tracks": [
+      {
+        "songName": "Beat It",
+        "songUrl": "/data/03_thriller/01. Beat It.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "Billie Jean",
+        "songUrl": "/data/03_thriller/02. Billie Jean.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "Human Nature",
+        "songUrl": "/data/03_thriller/03. Human Nature.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "Pretty Young Thing",
+        "songUrl": "/data/03_thriller/04. Pretty Young Thing.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "The Girl Is Mine",
+        "songUrl": "/data/03_thriller/05. The Girl Is Mine.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "Thriller",
+        "songUrl": "/data/03_thriller/06. Thriller.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "Wanna Be Startin",
+        "songUrl": "/data/03_thriller/07. Wanna Be Startin.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      }
+    ]
+  },
+  {
+    "albumName": "Blood on the Dance Floor",
+    "tracks": [
+      {
+        "songName": "Check Track Get In To Track",
+        "songUrl": "/data/04_blood_on_the_dance_floor/01. Check Track Get In To Track.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "Ghosts",
+        "songUrl": "/data/04_blood_on_the_dance_floor/02. Ghosts.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "Is It Scary",
+        "songUrl": "/data/04_blood_on_the_dance_floor/03. Is It Scary.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "2 Bad (Refugee Camp Mix)",
+        "songUrl": "/data/04_blood_on_the_dance_floor/04. 2 Bad (Refugee Camp Mix).mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "Money (Fire Island Radio Edit Mix)",
+        "songUrl": "/data/04_blood_on_the_dance_floor/05. Money (Fire Island Radio Edit Mix).mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "Morphine",
+        "songUrl": "/data/04_blood_on_the_dance_floor/06. Morphine.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "Screme Louder (Slyte Tyme Mix)",
+        "songUrl": "/data/04_blood_on_the_dance_floor/07. Screme Louder (Slyte Tyme Mix).mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "Stranger In Moscow (Tee's In House Club Mix)",
+        "songUrl": "/data/04_blood_on_the_dance_floor/08. Stranger In Moscow (Tee's In House Club Mix).mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "Superfly Sister",
+        "songUrl": "/data/04_blood_on_the_dance_floor/09. Superfly Sister.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "Tck 2 Bck",
+        "songUrl": "/data/04_blood_on_the_dance_floor/10. Tck 2 Bck.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "Kick Me",
+        "songUrl": "/data/04_blood_on_the_dance_floor/11. Kick Me.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "What About You",
+        "songUrl": "/data/04_blood_on_the_dance_floor/12. What About You.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "Dont You Always",
+        "songUrl": "/data/04_blood_on_the_dance_floor/13. Dont You Always.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "Move It",
+        "songUrl": "/data/04_blood_on_the_dance_floor/14. Move It.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      }
+    ]
+  },
+  {
+    "albumName": "Invincible",
+    "tracks": [
+      {
+        "songName": "Unbreakable",
+        "songUrl": "/data/05_invincible/01. Unbreakable.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "Heartbreaker",
+        "songUrl": "/data/05_invincible/02. Heartbreaker.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "Invincible",
+        "songUrl": "/data/05_invincible/03. Invincible.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "Break Of Down",
+        "songUrl": "/data/05_invincible/04. Break Of Down.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "Heaven Can Wait",
+        "songUrl": "/data/05_invincible/05. Heaven Can Wait.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "You Rock My World",
+        "songUrl": "/data/05_invincible/06. You Rock My World.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "Butterflies",
+        "songUrl": "/data/05_invincible/07. Butterflies.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "Speechless",
+        "songUrl": "/data/05_invincible/08. Speechless.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "2000 Watts",
+        "songUrl": "/data/05_invincible/09. 2000 Watts.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "You Are My Life",
+        "songUrl": "/data/05_invincible/10. You Are My Life.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "Privacy",
+        "songUrl": "/data/05_invincible/11. Privacy.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "Don't Walk Away",
+        "songUrl": "/data/05_invincible/12. Don't Walk Away.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "Cry",
+        "songUrl": "/data/05_invincible/13. Cry.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "The Lost Children",
+        "songUrl": "/data/05_invincible/14. The Lost Children.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "Whatever Happens",
+        "songUrl": "/data/05_invincible/15. Whatever Happens.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "Threatened",
+        "songUrl": "/data/05_invincible/16. Threatened.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      }
+    ]
+  },
+  {
+    "albumName": "History",
+    "tracks": [
+      {
+        "songName": "History",
+        "songUrl": "/data/06_history/01. History.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "They Dont Care About Us",
+        "songUrl": "/data/06_history/02. They Dont Care About Us.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "This Time Around",
+        "songUrl": "/data/06_history/03. This Time Around.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "You Are Not Alone",
+        "songUrl": "/data/06_history/04. You Are Not Alone.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "2 Bad",
+        "songUrl": "/data/06_history/05. 2 Bad.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "Childhood (Theme From Free Willy 2)",
+        "songUrl": "/data/06_history/06. Childhood (Theme From Free Willy 2).mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "Come Together",
+        "songUrl": "/data/06_history/07. Come Together.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "Ds",
+        "songUrl": "/data/06_history/08. Ds.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "Earth Song",
+        "songUrl": "/data/06_history/09. Earth Song.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "Littles Susie",
+        "songUrl": "/data/06_history/10. Littles Susie.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "Money",
+        "songUrl": "/data/06_history/11. Money.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "Screme (Duets with Janet Jackson)",
+        "songUrl": "/data/06_history/12. Screme (Duets with Janet Jackson).mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "Smile",
+        "songUrl": "/data/06_history/13. Smile.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "Stranger In Moscow",
+        "songUrl": "/data/06_history/14. Stranger In Moscow.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      }
+    ]
+  },
+  {
+    "albumName": "Off the Wall",
+    "tracks": [
+      {
+        "songName": "Off The Wall",
+        "songUrl": "/data/07_off_the_wall/01. Off The Wall.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "Girlfriend",
+        "songUrl": "/data/07_off_the_wall/02. Girlfriend.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "Get On The Floor",
+        "songUrl": "/data/07_off_the_wall/03. Get On The Floor.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "Rock With You",
+        "songUrl": "/data/07_off_the_wall/04. Rock With You.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "Workin Day And Night",
+        "songUrl": "/data/07_off_the_wall/05. Workin Day And Night.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "Burn This Disco Out",
+        "songUrl": "/data/07_off_the_wall/06. Burn This Disco Out.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "Dont Stop Til You Get Enough",
+        "songUrl": "/data/07_off_the_wall/07. Dont Stop Til You Get Enough.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "I Cant Help It",
+        "songUrl": "/data/07_off_the_wall/08. I Cant Help It.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "Its The Falling In Love",
+        "songUrl": "/data/07_off_the_wall/09. Its The Falling In Love.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      },
+      {
+        "songName": "Shes Out Of My Life",
+        "songUrl": "/data/07_off_the_wall/10. Shes Out Of My Life.mp3",
+        "albumImage": "",
+        "albumArtist": "Michael Jackson"
+      }
+    ]
+  }
+]

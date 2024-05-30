@@ -1,0 +1,29 @@
+.card-container {
+  height: 150px;
+  width: 150px;
+  padding: 10px;
+  position: relative;
+  float: left;
+}
+
+.card-image {
+  height: 150px;
+  width: 150px;
+  border-radius: 10px;
+}
+
+.card-title {
+  position: absolute;
+  font-size: 24px;
+  color: white;
+  font-weight: bold;
+  padding: 10px;
+}
+
+.browse-all {
+  font-size: 27px;
+  padding: 10px;
+  color: white;
+  font-weight: bold;
+  margin-bottom: 10px;
+}

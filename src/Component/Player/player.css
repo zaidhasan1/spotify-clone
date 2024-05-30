@@ -1,0 +1,130 @@
+.player-container {
+  height: 80px;
+  background-color: var(--main-color);
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  color: white !important;
+  display: flex;
+}
+
+.first-container {
+  width: 20%;
+}
+
+.second-container {
+  width: 60%;
+  align-items: center;
+  justify-content: center;
+  display: grid;
+  padding: 0px;
+}
+
+.third-container {
+  width: 20%;
+  align-items: end;
+  justify-content: end;
+  display: flex;
+}
+
+.player-program {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
+.player-program-one {
+  display: flex;
+  justify-content: center;
+  height: 10px;
+  margin-bottom: 10px;
+}
+
+.player {
+  display: flex;
+}
+
+.count {
+  font-size: 12px;
+  margin-right: 5px;
+  margin-left: 5px;
+}
+
+.progress {
+  width: 600px;
+  height: 7px;
+  margin-top: 4px;
+  background-color: var(--green);
+  border-radius: 100px !important;
+}
+
+.player-ul {
+  display: inline-block;
+  list-style-type: none;
+}
+
+.player-ul li {
+  color: white;
+  display: inline-block;
+  margin-right: 30px;
+}
+
+.player-program-two {
+  display: flex;
+}
+
+.song-info {
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  align-items: center;
+  padding: 10px;
+  max-width: 500px;
+  gap: 10px; /* Adjust space between grid items */
+}
+
+.song-thumbnail {
+  width: 50px;
+  height: 50px;
+  border-radius: 4px; /* Rounded corners for the image */
+}
+
+.text-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.song-title {
+  font-size: 16px;
+  font-weight: bold;
+  margin: 0;
+  white-space: nowrap; /* Prevent text wrapping */
+}
+
+.song-artists {
+  font-size: 14px;
+  color: #aaa;
+  margin: 0;
+  white-space: nowrap; /* Prevent text wrapping */
+}
+
+.icon-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.add-icon {
+  font-size: 24px;
+  color: #fff;
+  cursor: pointer;
+}
+
+.rhap_container {
+  background-color: transparent !important;
+  width: 600px !important;
+}
+
+.rhap_download-progress {
+  background-color: var(--green) !important;
+}

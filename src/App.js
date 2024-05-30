@@ -1,24 +1,23 @@
-import logo from './logo.svg';
-import './App.css';
+import SnackbarProvider from "./Provider/SnackbarProvider";
+import LoaderProvider from "./Provider/LoaderProvider";
+import UserDataProvider from "./Provider/UserDataProvider";
+import Routers from "./Component/Routers/Routers";
+import "./assets/css/main.css";
+import PlayerProvider from "./Provider/PlayerProvider";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <SnackbarProvider>
+        <LoaderProvider>
+          <UserDataProvider>
+            <PlayerProvider>
+              <Routers />
+            </PlayerProvider>
+          </UserDataProvider>
+        </LoaderProvider>
+      </SnackbarProvider>
+    </>
   );
 }
 

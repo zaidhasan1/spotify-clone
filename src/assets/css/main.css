@@ -1,0 +1,44 @@
+:root {
+  --main-color: rgb(0, 0, 0);
+  --seconday-color: rgb(18, 18, 18);
+  --white: white;
+  -light-grey: rgb(150, 150, 150);
+  --green: rgb(108, 227, 148);
+}
+
+body {
+  background-color: var(--main-color) !important;
+}
+
+.small-icon {
+  height: 30px;
+  width: 30px;
+}
+
+.main-container {
+  display: flex;
+}
+
+.mainColor {
+  background-color: var(--seconday-color);
+  transition: background-color 0.5s ease;
+}
+.secondaryColor {
+  transition: background-color 0.5s ease;
+  background-color: "";
+}
+
+
+::-webkit-scrollbar {
+  width: 8px !important;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--main-color);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--green);
+  height: 5px;
+  border-radius: 100px !important;
+}

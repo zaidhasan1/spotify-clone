@@ -1,0 +1,118 @@
+.main-playlist-header {
+  display: grid;
+  width: 100%;
+  margin-bottom: 70px;
+  margin-top: 20px;
+}
+
+.heading {
+  color: var(--white);
+}
+
+.title {
+  float: left;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.show-all {
+  float: right;
+  font-size: 12px;
+  font-weight: bold;
+  margin-top: 15px;
+  color: var(--light-grey);
+  cursor: pointer;
+}
+
+.show-all:hover {
+  text-decoration: underline;
+}
+
+.main-body {
+  clear: both;
+  width: 100%;
+  overflow-x: scroll;
+  overflow: scroll;
+  overflow-y: hidden;
+  height: auto;
+  display: flex;
+  margin-top: 20px;
+}
+
+.main-body::-webkit-scrollbar {
+  display: none;
+}
+
+.album-main {
+  margin-right: 20px;
+  cursor: pointer;
+  width: 200px;
+  height: 300px;
+}
+
+.album-main:hover {
+  opacity: 0.8;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+.album-img {
+  position: relative;
+}
+
+.image-icon {
+  width: 200px;
+  height: 190px;
+  border-radius: 5px;
+  margin-left: 16px;
+  margin-top: 10px;
+}
+
+.play-circle {
+  height: 32px;
+  width: 32px;
+  background-color: var(--green);
+  border-radius: 100px;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin-right: 0px;
+  margin-bottom: 10px;
+}
+
+.play-circle svg {
+  margin-top: 8px;
+  margin-left: 8px;
+}
+
+.album-title {
+  color: white;
+  font-weight: bold;
+  margin: 10px 0px 10px 0px;
+  font-size: 17px;
+  margin-left: 16px;
+}
+
+.album-artist {
+  font-weight: bold;
+  color: white;
+  font-size: 14px;
+  opacity: 0.8;
+  margin-left: 16px;
+  margin-bottom: 10px;
+}
+
+.transform {
+  transition: transform 0.5s ease;
+}
+
+.show-body{
+  padding: 10px 10px 10px 20px;
+}
+
+.show-all-body {
+  display: block;
+  width: inherit;
+  float: left;
+  margin-right:25px
+}
